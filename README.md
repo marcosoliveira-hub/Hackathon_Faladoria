@@ -4,12 +4,12 @@ Proposta  de ferramenta de gestão pública para o Hackathon promotido pela Elot
 
 ## Participantes:
 
-Marcos Vinicius de Oliveira []()
+[Marcos Vinicius de Oliveira](https://github.com/marcosoliveira-hub)
 
-Guilherme Frare Clemente []()
+[Guilherme Frare Clemente ](https://github.com/GuiSebax)
 
-Matheus Hamada []()
+[Matheus Hamada ](https://github.com/NotHamada)
 
-Eduardo Emílio dos Santos []()
+[Eduardo Emílio dos Santos](https://github.com/Eduees06)
 
-Vitor Felipe de Souza Siqueira []()
+[Vitor Felipe de Souza Siqueira](https://github.com/vitorrfelipee)
